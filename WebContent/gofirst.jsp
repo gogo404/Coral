@@ -12,6 +12,7 @@
 	<a href="test/helloo">不是hello请求</a>
 	<form href = "hello" method="post">
 		<h1> post hello </h1>
+		<h2>hello i am github</h2>	
 	
 	
 	</form>
